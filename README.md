@@ -14,7 +14,7 @@ Download the files and run the Jupyter Notebooks
 - Scikit-Learn
 
 ## Credits
-Datasets : [link](https://www.kaggle.com/mylesoneill/game-of-thrones
+Datasets : [link](https://www.kaggle.com/mylesoneill/game-of-thrones  
 Based on Siraj Ravel's introduction to using T-SNE with scikit-learn : [link](https://www.youtube.com/watch?v=yQsOFWqpjkE)
 
 ## License
