@@ -15,7 +15,7 @@ The outcome of our target battle with unknown outcome is most likley WIN.
 The scatter plot shows us that characters with similar popularity have similar data values. The data is clearly a good indicator of the popularity of a character.
 ### Character Houses
 ![alt tag](https://github.com/ludobouan/GoT-dimension-reduction/blob/master/images/house.png)  
-With the available data it is hard to infer a characters House. The character data in this dataset is not a good indicator of the House.
+With the available data it is hard to infer a characters House. The character data in this dataset is not a good indicator of the House. (Full legend in the Notebook)
 
 ## Usage
 Download the files and run the Jupyter Notebooks
