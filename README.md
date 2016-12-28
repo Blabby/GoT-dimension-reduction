@@ -7,14 +7,14 @@ Submission to Siraj Raval's competition ["Visualize a Game of Thrones Dataset"](
 
 ## Conclusions  
 ### Battle Outcome
-![alt tag](https://github.com/ludobouan/GoT-dimension-reduction/blob/master/images/battles.png)
+![alt tag](https://github.com/ludobouan/GoT-dimension-reduction/blob/master/images/battles.png)  
 With this format it is easy to see that battles with the same outcome have the similar parameters, although our sample size is small and we did not use dummy variables.  
 The outcome of our target battle with unknown outcome is most likley WIN.
 ### Popularity
-![alt tag](https://github.com/ludobouan/GoT-dimension-reduction/blob/master/images/popularity.png)
+![alt tag](https://github.com/ludobouan/GoT-dimension-reduction/blob/master/images/popularity.png)  
 The scatter plot shows us that characters with similar popularity have similar data values. The data is clearly a good indicator of the popularity of a character.
 ### Character Houses
-![alt tag](https://github.com/ludobouan/GoT-dimension-reduction/blob/master/images/house.png)
+![alt tag](https://github.com/ludobouan/GoT-dimension-reduction/blob/master/images/house.png)  
 With the available data it is hard to infer a characters House. The character data in this dataset is not a good indicator of the House.
 
 ## Usage
